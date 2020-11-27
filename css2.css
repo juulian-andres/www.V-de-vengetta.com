@@ -1,0 +1,91 @@
+body {background-image:url(fondo2.jpg);}
+
+#principal {margin-left: 6.1%;
+    margin-right: 6.1%;
+     width: 1194px;
+
+}
+
+
+
+#menu {background-color:white;
+margin-left: 6.1%;
+ 
+    height: 48px;
+    width: 1163px;
+    padding-left:7px; 
+    padding-right:5px ;
+ 
+    
+}
+
+#menu a {text-decoration: none;
+    font-size: 39px;
+    padding: 3px 45px;
+color: red;}
+
+menu a:hover , #menu a:active {background:#000;
+    color:red;}
+
+#menu a:hover {
+  text-decoration: none;
+  background-color:black;
+  color: #FFF;
+}
+
+
+
+#link {margin-left: 6.1%;
+    margin-right: 6.1%;
+}
+
+#link p {font-size: 10px;}
+
+
+/********************************************************************************************************/
+
+#titulo  {color: red;
+
+margin-left: 6.1%;
+    margin-right: 6.1%;
+     width: 1175px;
+    height: 45px;
+    margin-top: 75px;}
+
+#titulo p {text-align: center;
+font-size: 60px;}
+
+
+#contenedor {margin-left: 6.1%;
+    margin-right: 6.1%;
+     width: 1175px;
+    height: 1658px;
+}
+
+
+
+
+
+#primero , #segundo , #tercero , #cuarto , #quinto , #sexto {height:528px;
+    float:left;
+   width:587px;
+    
+    padding-top:50px;
+}
+
+#primero p ,  #segundo p , #tercero p  , #cuarto p , #quinto p , #sexto p{font-size: 21px;
+    line-height: 35px;
+    font-weight: bold;}
+
+
+#barra {background:gray;
+height: 30px;}
+
+#barra {color: white}
+
+#barra p {text-align: center;}
+
+
+
+    
+    

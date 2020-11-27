@@ -1,0 +1,109 @@
+body {background-image:url(fondo2.jpg);}
+
+#principal {margin-left: 6.1%;
+    margin-right: 6.1%;
+     width: 1194px;
+
+}
+
+
+
+#menu {background-color:white;
+margin-left: 6.1%;
+ 
+    height: 48px;
+    width: 1163px;
+    padding-left:7px; 
+    padding-right:5px ;
+ 
+    
+}
+
+#menu a {text-decoration: none;
+    font-size: 39px;
+    padding: 3px 45px;
+color: red;}
+
+menu a:hover , #menu a:active {background:#000;
+    color:red;}
+
+#menu a:hover {
+  text-decoration: none;
+  background-color:black;
+  color: #FFF;
+}
+
+#link {margin-left: 6.1%;
+    margin-right: 6.1%;
+}
+
+#link p {font-size: 10px;}
+
+/********************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+#segundo {  width: 1176px;
+    height: 606px;
+
+    margin-left:  6%;
+padding: 0px;}
+
+
+#segundo p {font-size: 9px}
+
+
+#segundo img {padding-top:63px;
+  
+
+    padding-left:400px; 
+    padding-right:500px;}
+
+/*listo*********************************************************************************************/
+
+#contenedor {
+   width: 1176px;
+    height: 800px;
+    margin-left: 6.1%;
+    margin-right: 6.1%;}
+
+#parrafo {
+   
+    height:760px;
+    float:left;
+    width:485px;
+    font-size: 26px;
+    line-height: 35px;
+    margin-top: 61px;}
+
+#parrafo h1 {color: red; font-size: 60px;}
+.www {font-size: 10px;}
+
+#video {
+
+height: 565px;
+    float:left;
+    width:606px;
+    padding-top: 245px;
+    padding-left: 78px;
+}
+
+#barra {background:gray;
+height: 30px;}
+
+#barra {color: white}
+
+#barra p {text-align: center;}
+
+
+
+    
+    

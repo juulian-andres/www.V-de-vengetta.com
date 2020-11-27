@@ -1,0 +1,170 @@
+body {background-image:url(fondo2.jpg);}
+
+#principal {margin-left: 6.1%;
+    margin-right: 6.1%;
+     width: 1194px;
+
+}
+
+
+
+#menu {background-color:white;
+margin-left: 6.1%;
+ 
+    height: 48px;
+    width: 1163px;
+    padding-left:7px; 
+    padding-right:5px ;
+ 
+    
+}
+
+#menu a {text-decoration: none;
+    font-size: 39px;
+    padding: 3px 45px;
+color: red;}
+
+menu a:hover , #menu a:active {background:#000;
+    color:red;}
+
+#menu a:hover {
+  text-decoration: none;
+  background-color:black;
+  color: #FFF;
+}
+
+
+#link {margin-left: 6.1%;
+    margin-right: 6.1%; width: 1163px;
+}
+
+#link p {font-size: 10px;}
+
+
+/********************************************************************************************************/
+
+#titulo { margin-left: 6.1%;
+    margin-right: 6.1%;
+    width: 1175px;
+    height: 60px; 
+}
+
+#titulo p {text-align: center;
+    font-size: 60px;
+    color: red;}
+    
+
+
+
+#titulodos {text-align: center;
+font-size: 40px;
+    padding-top: 50px;}
+
+#contenedor {margin-left: 6.1%;
+    margin-right: 6.1%;
+    width: 1175px;
+    height: 1670px;
+}
+#primero {float: left;
+    width:325px;
+    height: 550px;
+  padding-top:80px;
+    padding-left: 150px;
+   }
+
+
+
+#primero p { padding-right:20px;}
+
+#segundo p {font-size: 21px;
+    line-height: 35px;
+ }
+
+
+#segundo {float: left;
+ width:700px;
+    height: 580px;
+    padding-top: 50px}
+
+.www {font-size: 15px;}
+
+#tercero {float: left;
+    width:325px;
+    height: 390px;
+     padding-top: 60px;
+padding-left: 150px;}
+
+#tercero p { padding-right:20px;}
+
+
+
+
+
+#cuarto {
+    width: 700px;
+height:450px;
+float: left;}
+
+#cuarto p {font-size: 21px;
+    line-height: 35px;
+    padding-top: 30px;
+ }
+
+
+
+#quinto {
+    float: left;
+    width: 710px;
+    height: 565px;}
+
+#quinto p {font-size: 21px;
+    line-height: 35px;
+    padding-top: 30px;}
+
+#sexto {
+    float: left;
+    width:415px;
+    height: 510px;
+     padding-top: 56px;
+    padding-left: 50px;
+ }
+
+
+#barra {background:gray;
+height: 30px;
+    ;}
+
+#barra {color: white}
+
+#barra p {text-align: center;}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
